@@ -88,8 +88,15 @@ body {
 }
 
 .button-container {
-    width: 300px;
+    display: flex;
     justify-content: center;
+    gap: 20px;
+    width: 300px;
+    margin-top: 30px;
+}
+
+#button-reiniciar{
+    background-color: #4B69FD;
 }
 
 /* Estilos de entrada de texto */
