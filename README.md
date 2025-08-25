@@ -39,9 +39,9 @@ Este projeto foi desenvolvido utilizando tecnologias web fundamentais, sem a nec
 ### Deploy na Vercel
 Você pode acessar a versão ao vivo do projeto clicando no link abaixo:
 
-<a href="https://seu-projeto-amigo-secreto.vercel.app/" target="_blank" rel="noopener noreferrer">https://amigo-secreto-coral-three.vercel.app/</a>
+**https://amigo-secreto-coral-three.vercel.app/**
 
-### 🔧 Executando Localmente
+###  Executando Localmente
 Por ser um projeto puramente front-end, não é necessária nenhuma instalação complexa.
 
 1.  **Clone o repositório (se estiver no GitHub):**
